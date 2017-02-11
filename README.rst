@@ -7,6 +7,9 @@
 .. image:: https://badge.waffle.io/opencobra/cobrapy.png?label=ready&title=Ready 
  :target: https://waffle.io/opencobra/cobrapy
  :alt: 'Stories in Ready'
+.. image:: https://badge.waffle.io/opencobra/cobrapy.png?label=ready&title=Ready 
+ :target: https://waffle.io/opencobra/cobrapy
+ :alt: 'Stories in Ready'
 cobrapy - constraint-based reconstruction and analysis in python
 ================================================================
 
